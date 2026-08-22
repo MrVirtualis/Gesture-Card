@@ -19,4 +19,4 @@ jobs:
       - name: Run HACS Action
         uses: hacs/action@main
         with:
-          category: plugin
+          category: dashboard
