@@ -38,3 +38,7 @@ You can configure separate control paths for standard presses and directional sw
 ## Installation
 
 Add this repository as a custom repository in HACS under the **Plugin** category, then search for **Gesture Card** to download it.
+
+## Note
+
+This is my very first custom Home Assistant card, built with the assistance of ai to help design, structure, and implement the codebase. Feedback and contributions are always welcome.
