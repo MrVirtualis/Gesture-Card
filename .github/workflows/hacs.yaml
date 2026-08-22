@@ -1,9 +1,3 @@
-## GitHub Action Workflow Setup
-
-Automated testing via GitHub Actions ensures your repository complies with HACS standards every time you push code or open a pull request. You need to store the workflow configuration in a specific directory path inside your project repository.
-
-`.github/workflows/hacs.yml`
-```yaml
 name: HACS Action
 
 on:
